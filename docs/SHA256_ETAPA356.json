@@ -1,0 +1,47 @@
+[
+  {
+    "path": "LEIA_ME.md",
+    "bytes": 1865,
+    "sha256": "7ecbfee95d5a88ab3c6ddf043b07fd969384d44f2722422e45bb324dff50304a"
+  },
+  {
+    "path": "CT3_356_PTBR_LOGOTIPO.sfc",
+    "bytes": 2097152,
+    "sha256": "b302f1f3268da2ed2887b3eff5b532f8794fc678b9af42dc1110a04d16213a8c"
+  },
+  {
+    "path": "CT3_356_PTBR_LOGOTIPO.ips",
+    "bytes": 1052617,
+    "sha256": "46d2d6de9d8520793ebefee5d328bca89d84246c4cf3d74e20c4659d0c0dff0d"
+  },
+  {
+    "path": "aplicar_ct3_356.py",
+    "bytes": 2545,
+    "sha256": "88bb4e3fa5bdea4d4e3f9819f70b8ea50c33278eae76ad62b8a4f6bb3b44bd1e"
+  },
+  {
+    "path": "RELATORIO_ETAPA356.md",
+    "bytes": 2574,
+    "sha256": "9752412f94f4d7e12de8cd03f4205266fd5ce2413adbd4e091a72f167028773e"
+  },
+  {
+    "path": "PREVIA.png",
+    "bytes": 12562,
+    "sha256": "b31f81669092c5876af2c14505cb84f85901e8714f9102fdda54b4c1ea04f00b"
+  },
+  {
+    "path": "COMPARACAO.png",
+    "bytes": 17033,
+    "sha256": "e2f0d1e3723aa153c55ce7ed5294a5f1f8b2a764425f4cb8459d69878f274b78"
+  },
+  {
+    "path": "VALIDACAO356.json",
+    "bytes": 3886,
+    "sha256": "f2ddead7fe6a07352915816095eaa1897f9db135ea76e8bad4584e15918b4863"
+  },
+  {
+    "path": "APLICADOR_VALIDACAO.json",
+    "bytes": 335,
+    "sha256": "874f5318aa36f292c9cc935bff81048e7de98cbcb95f614183dab87a18c7a19d"
+  }
+]

@@ -1,23 +1,28 @@
-# Captain Tsubasa III: Koutei no Chousen — Tradução PT-BR
+# Captain Tsubasa III — Tradução PT-BR
 
-Projeto independente de tradução de **Captain Tsubasa III: Koutei no Chousen** (Super Famicom/SNES) para português brasileiro.
+Tradução independente de **Captain Tsubasa III: Koutei no Chousen** (Super Famicom) para português brasileiro.
 
-## Estado
-**Em desenvolvimento.** Não há patch público validado neste pacote inicial.
+## Versão para testes: etapa 356
+Esta versão acrescenta o logotipo **CAPTAIN TSUBASA** em letras latinas na tela de título, preservando o numeral III, o subtítulo **O DESAFIO DO IMPERADOR** e a tradução acumulada da RC1.
 
-## Objetivos
-- Traduzir menus, diálogos, narração e textos de partidas, preservando nomes originais dos personagens.
-- Investigar ponteiros e realocação de textos para suportar frases mais longas.
-- Revisar elementos gráficos japoneses, inclusive a tela de título.
-- Preservar funcionamento e jogabilidade.
+**Estado:** experimental, para revisão jogando. A campanha completa e a revisão semântica dos diálogos ainda não foram concluídas.
 
-## Organização
-- `docs/`: histórico, progresso e testes.
-- `patches/`: patches IPS/BPS validados, quando disponíveis.
-- `scripts/`: scripts próprios revisados, quando disponíveis.
+## Instalação
+1. Utilize sua própria cópia da ROM japonesa original **sem cabeçalho**, com SHA-256:
+   `6a299b99e0a55aec6669930dc622037d82d297e875630273c6cd6f05438aa3e6`
+2. Faça backup da ROM.
+3. Aplique `patches/CT3_356_PTBR_LOGOTIPO.ips` **diretamente na ROM japonesa original**. Não aplique sobre a RC1 ou outra ROM modificada.
+4. Alternativamente, utilize `scripts/aplicar_ct3_356.py`, que verifica os hashes.
+5. Inicie um jogo novo para revisar. Estados antigos podem conservar gráficos anteriores.
 
-## Aplicação de patches
-Quando houver um patch publicado, use uma cópia legítima da ROM japonesa compatível. Faça backup, confira os hashes e aplique o patch com ferramenta adequada. Não aplique sobre ROM previamente modificada, salvo indicação específica.
+SHA-256 esperado da ROM modificada:
+`b302f1f3268da2ed2887b3eff5b532f8794fc678b9af42dc1110a04d16213a8c`
 
-## Aviso legal
-Este repositório não distribui ROMs nem arquivos comerciais do jogo. Projeto independente e não oficial. Direitos sobre o jogo original pertencem aos respectivos titulares.
+## Documentação
+- `docs/LEIA_ME_ETAPA356.md`: detalhes da versão e instalação.
+- `docs/RELATORIO_ETAPA356.md`: investigação gráfica.
+- `docs/VALIDACAO356.json`: resultados de testes automatizados relatados pelo checkpoint.
+- `docs/PREVIA.png` e `docs/COMPARACAO.png`: imagens de referência.
+
+## Direitos autorais
+Não distribuímos ROMs comerciais. Captain Tsubasa e os recursos originais pertencem aos respectivos titulares. Projeto independente e não oficial.

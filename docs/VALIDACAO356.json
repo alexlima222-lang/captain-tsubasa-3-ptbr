@@ -1,0 +1,198 @@
+{
+  "stage": 356,
+  "sha256": "b302f1f3268da2ed2887b3eff5b532f8794fc678b9af42dc1110a04d16213a8c",
+  "base_sha256": "3f82e4f29fc4d36d5fcb32c0762973a02fea003ca661e854c0cb1b3d35456551",
+  "changed_rom_bytes": 1983,
+  "title_tiles_changed": 68,
+  "paired_captures": 32,
+  "visible_logo_captures": 4,
+  "all_other_pixels_identical": true,
+  "only_expected_vram_tiles_changed": true,
+  "ppu_identical": true,
+  "roman_iii_unchanged": true,
+  "font_code_and_all_translation_banks_unchanged": true,
+  "ips_reapplies_identical": true,
+  "frames": [
+    {
+      "frame": 4140,
+      "difference_bbox": null,
+      "changed_vram_tiles": 0
+    },
+    {
+      "frame": 4200,
+      "difference_bbox": null,
+      "changed_vram_tiles": 68
+    },
+    {
+      "frame": 4260,
+      "difference_bbox": [
+        33,
+        16,
+        63,
+        151
+      ],
+      "changed_vram_tiles": 68
+    },
+    {
+      "frame": 4320,
+      "difference_bbox": [
+        33,
+        16,
+        63,
+        151
+      ],
+      "changed_vram_tiles": 68
+    },
+    {
+      "frame": 4380,
+      "difference_bbox": [
+        33,
+        16,
+        63,
+        151
+      ],
+      "changed_vram_tiles": 68
+    },
+    {
+      "frame": 4440,
+      "difference_bbox": [
+        33,
+        16,
+        63,
+        151
+      ],
+      "changed_vram_tiles": 68
+    },
+    {
+      "frame": 4500,
+      "difference_bbox": null,
+      "changed_vram_tiles": 68
+    },
+    {
+      "frame": 4560,
+      "difference_bbox": null,
+      "changed_vram_tiles": 68
+    },
+    {
+      "frame": 4620,
+      "difference_bbox": null,
+      "changed_vram_tiles": 68
+    },
+    {
+      "frame": 4680,
+      "difference_bbox": null,
+      "changed_vram_tiles": 68
+    },
+    {
+      "frame": 4740,
+      "difference_bbox": null,
+      "changed_vram_tiles": 68
+    },
+    {
+      "frame": 4800,
+      "difference_bbox": null,
+      "changed_vram_tiles": 68
+    },
+    {
+      "frame": 4860,
+      "difference_bbox": null,
+      "changed_vram_tiles": 68
+    },
+    {
+      "frame": 4920,
+      "difference_bbox": null,
+      "changed_vram_tiles": 68
+    },
+    {
+      "frame": 4980,
+      "difference_bbox": null,
+      "changed_vram_tiles": 68
+    },
+    {
+      "frame": 5040,
+      "difference_bbox": null,
+      "changed_vram_tiles": 68
+    },
+    {
+      "frame": 5100,
+      "difference_bbox": null,
+      "changed_vram_tiles": 68
+    },
+    {
+      "frame": 5160,
+      "difference_bbox": null,
+      "changed_vram_tiles": 68
+    },
+    {
+      "frame": 5220,
+      "difference_bbox": null,
+      "changed_vram_tiles": 68
+    },
+    {
+      "frame": 5280,
+      "difference_bbox": null,
+      "changed_vram_tiles": 68
+    },
+    {
+      "frame": 5340,
+      "difference_bbox": null,
+      "changed_vram_tiles": 68
+    },
+    {
+      "frame": 5400,
+      "difference_bbox": null,
+      "changed_vram_tiles": 68
+    },
+    {
+      "frame": 5460,
+      "difference_bbox": null,
+      "changed_vram_tiles": 68
+    },
+    {
+      "frame": 5520,
+      "difference_bbox": null,
+      "changed_vram_tiles": 68
+    },
+    {
+      "frame": 5580,
+      "difference_bbox": null,
+      "changed_vram_tiles": 68
+    },
+    {
+      "frame": 5640,
+      "difference_bbox": null,
+      "changed_vram_tiles": 68
+    },
+    {
+      "frame": 5700,
+      "difference_bbox": null,
+      "changed_vram_tiles": 68
+    },
+    {
+      "frame": 5760,
+      "difference_bbox": null,
+      "changed_vram_tiles": 68
+    },
+    {
+      "frame": 5820,
+      "difference_bbox": null,
+      "changed_vram_tiles": 68
+    },
+    {
+      "frame": 5880,
+      "difference_bbox": null,
+      "changed_vram_tiles": 68
+    },
+    {
+      "frame": 5940,
+      "difference_bbox": null,
+      "changed_vram_tiles": 68
+    },
+    {
+      "frame": 6000,
+      "difference_bbox": null,
+      "changed_vram_tiles": 68
+    }
+  ],
+  "status": "validated in the title-logo cold-boot scope"
+}
